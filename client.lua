@@ -239,7 +239,7 @@ Citizen.CreateThread(function()
 
 				DrawScaleformMovieFullscreen(scaleform, 255, 255, 255, 255)
 				DrawScaleformMovie(scaleform2, 0.5, 0.63, 1.0, 1.0, 255, 255, 255, 255)
-				Breaking("BREAKING NEWS")
+				Breaking("")
 				
 				local camHeading = GetGameplayCamRelativeHeading()
 				local camPitch = GetGameplayCamRelativePitch()
